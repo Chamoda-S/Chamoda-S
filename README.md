@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Chamoda Suraweera
+- 👀 I’m interested in Science, Teachnology, Space, Architecture and Design. 
+- 🌱 I’m currently learning Computer Science and French.
+- ⚡ Fun fact: White chocolate isn't teachnically chocolate. 
