@@ -64,4 +64,6 @@ Cloud Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamoda-S&show_icons=true&theme=default)
+
 
