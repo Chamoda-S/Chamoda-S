@@ -43,6 +43,8 @@ Testing Tools
 Design Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" width="40"/>
 </p>
 
 
